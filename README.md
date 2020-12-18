@@ -1,2 +1,2 @@
-# C-20-CGSO
-CARS AND WALLS
+# p5.play-boilerplate
+Boiler plate for p5.play
